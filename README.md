@@ -1,5 +1,8 @@
 # IP-Finder
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Skuzzy_xD/)
+
 A simple programm to find IP Address of your PC using Python and requests library!
 
 ## Getting Started
